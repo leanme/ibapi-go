@@ -3,6 +3,10 @@ The apis of [IB](https://www.interactivebrokers.com) in [Golang](https://golang.
 
 Targets
 ---------
-- Work as grpc api server
+- Work as an gRPC server
+- Work as  a RESTFul server
 - Cmd line tool
-- Http api server
+
+Contribute
+-------
+Email: lvhuat@gmail.com
