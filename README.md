@@ -7,6 +7,6 @@ Targets
 - Work as  a RESTFul server
 - Cmd line tool
 
-Contribute
+Join the project with us/me
 -------
 Email: lvhuat@gmail.com
